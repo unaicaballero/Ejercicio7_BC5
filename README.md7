@@ -1,0 +1,3 @@
+Ejercicio 7 - BC5
+Crear una interfaz que utilice GridPane para organizar varios botones en una cuadrícula.
+Al ejecutar la aplicación se abre una ventana de 400x300 píxeles con el título "Ejercicio 7". Utiliza un GridPane como layout principal con 10 píxeles de separación tanto entre filas (vgap) como entre columnas (hgap), centrado en pantalla. Los botones numerados del 1 al 4 se colocan en las cuatro celdas de la cuadrícula: "1" y "2" en la primera fila, "3" y "4" en la segunda.
